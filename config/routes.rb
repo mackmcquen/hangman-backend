@@ -5,4 +5,5 @@ Rails.application.routes.draw do
   # get '/users/:id', to: 'users#show'
   # post '/users/:id', to: 'users#show'
   resources :users
+  resources :games
 end

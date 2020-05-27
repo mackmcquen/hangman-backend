@@ -8,4 +8,5 @@
 
 
 User.create(username: 'stefani', points: 0)
+Game.create(user_id: 1)
 
