@@ -8,5 +8,12 @@
 
 
 User.create(username: 'stefani', points: 0)
-Game.create(user_id: 1)
+User.create(username: 'mack', points: 20)
+User.create(username: 'auz', points: 8)
+User.create(username: 'raza', points: 50)
+User.create(username: 'sam', points: 32)
+User.create(username: 'jess', points: 4)
+User.create(username: 'duke', points: 10)
+User.create(username: 'kyle', points: 7)
+
 
